@@ -6,3 +6,4 @@ image of SDLC Screenshot:
 
 Image of Git Certificate
 [Vaibhav Malviya Git certificate,Simplilearn.pdf](https://github.com/user-attachments/files/21445631/Vaibhav.Malviya.Git.certificate.Simplilearn.pdf)
+<img width="1044" height="738" alt="Image" src="https://github.com/user-attachments/assets/2bdef2f3-120c-4cb9-88ef-886ae4670a13" />
