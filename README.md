@@ -9,3 +9,6 @@ Image of Git Certificate(Completed on 25July,2025):
 
 To view pdf of git certificate click below link
 [Vaibhav Malviya Git certificate,Simplilearn.pdf](https://github.com/user-attachments/files/21445631/Vaibhav.Malviya.Git.certificate.Simplilearn.pdf)
+
+Image of One Linux Command Screenshot(Completed on 29July,2025):
+<img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/654025df-4dd6-4417-aa7f-3c04fcad2ecd" />
