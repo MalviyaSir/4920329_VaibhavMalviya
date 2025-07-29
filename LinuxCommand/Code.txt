@@ -1,0 +1,410 @@
+
+vaibhavmalviya@As-MacBook-Pro LinuxCommand % history 716              
+  716  node -v
+  717  cd //Users/vaibhavmalviya/Desktop/antim-sewa-ecommerce/package.json
+  718  ls
+  719  npm install
+  720  npm run
+  721  npm start
+  722  next start
+  723  npm install --legacy-peer-deps\n
+  724  brew install nvm
+  725  nvm install 20.17.0
+  726  nvm use 20.17.0
+  727  npm install
+  728  npm start
+  729  npm stop
+  730  npm install --legacy-peer-deps\n
+  731  npm install
+  732  npm install --legacy-peer-deps\n
+  733  npm install --legacy-peer-deps\n
+  734  rm -rf node_modules package-lock.json\n
+  735  npm install
+  736  npm start
+  737  npm start
+  738  npm start\n\n> my-v0-project@0.1.0 start\n> next start\n\n   ▲ 
+Next.js 15.2.4\n   - Local:        http://localhost:3000\n   - Network:      
+http://192.168.29.143:3000\n\n ✓ Starting...
+  739  npm start
+  740  next start
+  741  npm install
+  742  npm start\n
+  743  npm install
+  744  npm start\n
+  745  brew install nvm\nnvm install 20.17.0\nnvm use 20.17.0\n
+  746  npm install\n
+  747  npm start
+  748  rm -rf node_modules package-lock.json\n
+  749  npm install\n
+  750  npm create vite@latest
+  751  npm create vite@latest antim-sewa-vite -- --template react\ncd 
+antim-sewa-vite\nnpm install\n
+  752  npm run dev\n
+  753  npm run dev
+  754  npm start
+  755  git bash
+  756  git
+  757  git -version
+  758  git --version
+  759  git --version
+  760  git clone https://github.com/MalviyaSir/4920329_VaibhavMalviya.git
+  761  ls
+  762  cd 4920329_VaibhavMalviya
+  763  ls
+  764  ls
+  765  \tls
+  766  pwd
+  767  git init
+  768  git add .
+  769  git status
+  770  git commit -m "Initial Commit"
+  771  git push
+  772  git push
+  773  git push
+  774  git push
+  775  git remote set-url origin 
+https://github.com/CodeMaster00001/4920329_VaibhavMalviya.git\n
+  776  git remote set-url origin 
+https://github.com/CodeMaster00001/4920329_VaibhavMalviya.git
+  777  git push origin main  # or 'master', or the correct branch name\n
+  778  git config --global user.name "MalviyaSir"
+  779  git config --global user.email "vaibhavmalviya2902@gmail.com"
+  780  git clone https://github.com/MalviyaSir/4920329_VaibhavMalviya.git
+  781  ls
+  782  cd 4920329_VaibhavMalviya
+  783  ls
+  784  git init
+  785  git add .
+  786  git status
+  787  git commit -m "Initial Commit"\n
+  788  git push
+  789  git push origin
+  790  git init
+  791  git add .
+  792  git status
+  793  git commit -m "Trying to upload files"\n
+  794  git push
+  795  rm - rf.git
+  796  rm -rf.git
+  797  rm --rf.git
+  798  rm -rf .git
+  799  git
+  800  s
+  801  git --version
+  802  git bash
+  803  ls
+  804  git clone https://github.com/MalviyaSir/4920329_VaibhavMalviya.git
+  805  cd 4920329_VaibhavMalviya
+  806  ls
+  807  git init
+  808  git add .
+  809  git commit -m"First Commit to connect git to github"
+  810  git push
+  811  git config --global user.name "Vaibhav Malviya"\ngit config 
+--global user.email "vaibhavmalviya2902@gmail.com"\n
+  812  git config --list\n
+  813  git push origin main\n
+  814  git push origin main\n
+  815  git config --global user.name "Vaibhav Malviya"\ngit config 
+--global user.email "vaibhavmalviya2902@gmail.com"\n
+  816  git config --global --list\n
+  817  git push origin main\n
+  818  git push origin main\n
+  819  git push origin main\n
+  820  git push origin main\n
+  821  git push origin main\n
+  822  git config --global http.postBuffer 524288000\ngit config --global 
+http.lowSpeedLimit 0\ngit config --global http.lowSpeedTime 999999\n
+  823  git push
+  824  git pull
+  825  git add .
+  826  git commit -m"Uploaded images in the readme file of the course"
+  827  git push
+  828  git add .
+  829  git commit
+  830  git --v
+  831  git --version
+  832  ls
+  833  pwd
+  834  git add .
+  835  git commit -m"uploading more images in readme file"
+  836  git push
+  837  git add .
+  838  git commit -m"uploading images of git certificate in readme file"
+  839  git push
+  840  git add .
+  841  git commit -m"Uploaded dates of the screenshots/certificates"
+  842  git push
+  843  git status
+  844  git status
+  845  ls
+  846  cd Git
+  847  ls
+  848  cd Assignments
+  849  ls
+  850  touch test.c test.txt
+  851  git status
+  852  echo "Hello C File" > test.c\necho "This is a text file" > 
+test.txt\n
+  853  git status
+  854  git diff
+  855  cd/
+  856  cd\\n
+  857  ls
+  858  ls
+  859  cd Desktop
+  860  ls
+  861  cd 4920329_VaibhavMalviya
+  862  git diff
+  863  git add test.c
+  864  git add .
+  865  git commit -m"Initial commit with test files"
+  866  git puh
+  867  git push
+  868  cd .
+  869  pwd
+  870   cd Git
+  871  cd Assignments
+  872  ls
+  873  echo "Another line in C file">>test.c
+  874  git commit -a -m"Updated test.c with another Line"
+  875  git log --stat
+  876  q
+  877  cd ..
+  878  pwd
+  879  cd ..
+  880  pwd
+  881  git log --stat
+  882  git commit --amend
+  883  git checkout -b new-feature\n
+  884  pwd
+  885  echo "Feature branch line" >> test.txt\ngit add .\ngit commit -m 
+"Added new line in feature branch"\n
+  886  git push
+  887  git checkout main\n
+  888  git push
+  889  git log
+  890  ls -a
+  891  git remote -v
+  892  git branch
+  893  git branch -M new-feature
+  894  gt branch
+  895  git branch
+  896  git push
+  897  git branch -m main\n
+  898  git branch
+  899  git push
+  900  git checkout -b feature1
+  901  git branch
+  902  git checkout main
+  903  git checkout -b feature2
+  904  git branch
+  905  git push
+  906  git branch -d feature2
+  907  git checkout main
+  908  git branch -d feature2
+  909  git checkout feature1
+  910  git status
+  911  git add .
+  912  git commit -m"added new branch with some code change"
+  913  git status
+  914  git checkout main
+  915  git checkout feature1
+  916  git checkout main
+  917  git push origin feature1
+  918  git branch
+  919  git diff feature1
+  920  git checkout feature1
+  921  git add .
+  922  git commit -m"created 2 branches,now will merge them"
+  923  git push origin feature1
+  924  git push
+  925  git checkout feature1
+  926  git diff main
+  927  git checkout main
+  928  git pull origin main
+  929  git branch
+  930  git merge feature1
+  931  ls -a
+  932  git push
+  933  git log
+  934  git status
+  935  git merge --abort
+  936  git diff
+  937  git branch
+  938  git diff feature1
+  939  git push
+  940  git pull
+  941  quit
+  942  exit
+  943  ls
+  944  mkdir
+  945  rmdir
+  946  ls
+  947  pwd
+  948  mkdir commandstry
+  949  ls
+  950  cd commandstry
+  951  pwd
+  952  mkdir test.c
+  953  ls
+  954  rmdir test.c
+  955  ls
+  956  mkdir test.c
+  957  cd ..
+  958  ls
+  959  cd commandstry
+  960  ls
+  961  cd test.c
+  962  cd ..
+  963  ls
+  964  echo "Hello">test.c
+  965  rmdir test.c
+  966  ls
+  967  touch test.c
+  968  ls
+  969  touch test.c test.text
+  970  ls
+  971  echo "Hello">test.txt
+  972  cp test.txt test.c
+  973  ls
+  974  rmdir test.text
+  975  cd ..
+  976  ls
+  977  cd commandstry
+  978  rmdir test.c
+  979  cd..
+  980  rmdir commandstry
+  981  rmdir commandstry
+  982  ls
+  983  cd ..
+  984  rmdir commandstry
+  985  ls
+  986  cd commandstry
+  987  ls
+  988  rm test.c
+  989  rm test.text test.txt
+  990  ls
+  991  cd ..
+  992  rmdir commandstry
+  993  ls
+  994  ls -a
+  995  uname comandstry
+  996  uname
+  997  ps
+  998  \techo 
+  999  echo "Hello Don"
+ 1000  \twhoami
+ 1001  echo $SHELL
+ 1002  whoami
+ 1003  whatis cat
+ 1004  whereis cat
+ 1005  info cat
+ 1006  clear
+ 1007  sudo apt update
+ 1008  sudo apt upgrade
+ 1009  sudo apt install build-essential
+ 1010  sudo apt install gcc
+ 1011  date; uname -r;whoami
+ 1012  date; unam -r;whoami
+ 1013  dat && whoami
+ 1014  date
+ 1015  date "+%D"
+ 1016  date "+%D %T"
+ 1017  date "+%Y - %m -%d"
+ 1018  date "+%A  %Y - %m -%d"
+ 1019  date "+%B  %Y - %m -%d"
+ 1020  date --date "tomorrow"
+ 1021  date -date "tomorrow"
+ 1022  info date
+ 1023  cal 2025
+ 1024  cal -3
+ 1025  bc
+ 1026  bc <<< "12/5"
+ 1027  bc <<< "scale=2; 12/5"
+ 1028  bc <<< "scale=2;12/5"
+ 1029  bc <<< "scale=2;2^10"
+ 1030  uname -o
+ 1031  uname -O
+ 1032  uname -a
+ 1033  echo "Hello World"
+ 1034  echo "Hello \"World"\"
+ 1035  echo "Hello 'World'"
+ 1036  echo `date`
+ 1037  seq -s" " 10
+ 1038  rev >>> linux
+ 1039  history
+ 1040  history 20
+ 1041  history 20
+ 1042  history 20
+ 1043  history 20
+ 1044  date -date "tomorrow"
+ 1045  echo $?
+ 1046  date
+ 1047  echo $?
+ 1048  man cat
+ 1049  nano test
+ 1050  nano test
+ 1051  ls
+ 1052  pwd
+ 1053  cd -
+ 1054  cd Desktop
+ 1055  cd 4920329_VaibhavMalviya
+ 1056  cd ..
+ 1057  cd ..
+ 1058  cd -
+ 1059  ls
+ 1060  cd ..
+ 1061  cd ..
+ 1062  ls
+ 1063  cd vaibhavmalviya
+ 1064  l
+ 1065  ls
+ 1066  ls -l
+ 1067  ls -r
+ 1068  ls -R
+ 1069  cd Desktop
+ 1070  cd 4920329_VaibhavMalviya
+ 1071  ls -R
+ 1072  infor ls
+ 1073  info ls
+ 1074  whatis ls
+ 1075  ls
+ 1076  wc README.md
+ 1077  cd ..
+ 1078  pwd
+ 1079  wc "This is day 2"
+ 1080  wc
+ 1081  pwd
+ 1082  pwd
+ 1083  cat newfile.txt
+ 1084  history 10
+ 1085  history 0
+ 1086      history | grep "$(date +%F)"
+ 1087      history | grep "$(20025-07-29 +%F)"
+ 1088      history | grep "$(2025-07-29 +%F)"
+ 1089      history | grep "$(2025-07-28 +%F)"
+ 1090      history | grep "$(2025-07-25 +%F)"
+ 1091  history 100
+ 1092  history 10
+ 1093  echo $SHELL
+ 1094  history 100
+ 1095      source ~/.zshrc
+ 1096      cat ~/.zsh_history
+ 1097  history | grep "search_term"
+ 1098  cat ~/.zsh_history | grep "2025-07-27 && 2025-07-29" 
+ 1099  cat ~/.zsh_history | grep "2025-07-29" 
+ 1100  history
+ 1101  history 1000
+ 1102  history 700
+ 1103  history 716
+ 1104  ls
+ 1105  pwd
+ 1106  cd 4920329_VaibhavMalviya
+ 1107  ls
+ 1108  mkdir LinuxCommand
+ 1109  ls
+ 1110  cd LinuxCommand
+ 1111  touch Code.txt
+ 1112  ls
+
