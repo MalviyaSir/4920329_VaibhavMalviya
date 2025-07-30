@@ -1,0 +1,5 @@
+101: Pune : Maharashtra : 5200
+100: Chennai : Tanil Nadu : 4800
+103: Delhi : Delhi : 7000
+104: Kolkata : West Bengal : 1200
+102: Mumbai :Maharashtra : 5200 
