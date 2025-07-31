@@ -15,3 +15,6 @@ Image of One Linux Command Screenshot(Completed on <b>29July,2025</b>):
 performed today <b>30July,2025
 
 <img width="382" height="308" alt="Image" src="https://github.com/user-attachments/assets/da25ef54-1f1b-4ba8-8673-7d153e4bd48d" />
+
+Image of C Programming sololearn Certificate(Completed on <b>31July,2025</b>):
+[4336c9d9-400f-4be7-9379-2ae7219f56b3.pdf](https://github.com/user-attachments/files/21524841/4336c9d9-400f-4be7-9379-2ae7219f56b3.pdf)
