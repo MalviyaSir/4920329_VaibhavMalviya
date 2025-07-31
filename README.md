@@ -7,7 +7,7 @@ image of SDLC Screenshot(Completed on <b>16July,2025</b>):
 Image of Git Certificate(Completed on <b>25July,2025</b>):
 <img width="1044" height="738" alt="Image" src="https://github.com/user-attachments/assets/2bdef2f3-120c-4cb9-88ef-886ae4670a13" />
 
-To view pdf of git certificate click below link
+To view pdf of git certificate click link
 [Vaibhav Malviya Git certificate,Simplilearn.pdf](https://github.com/user-attachments/files/21445631/Vaibhav.Malviya.Git.certificate.Simplilearn.pdf)
 
 Image of One Linux Command Screenshot(Completed on <b>29July,2025</b>):
