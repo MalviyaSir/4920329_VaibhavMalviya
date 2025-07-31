@@ -18,4 +18,4 @@ performed today <b>30July,2025
 
 Image of C Programming sololearn Certificate(Completed on <b>31July,2025</b>):
 ![Image](https://github.com/user-attachments/assets/e74ae10c-983e-457f-8258-520d83f4193d)
-[4336c9d9-400f-4be7-9379-2ae7219f56b3.pdf](https://github.com/user-attachments/files/21524841/4336c9d9-400f-4be7-9379-2ae7219f56b3.pdf)
+
