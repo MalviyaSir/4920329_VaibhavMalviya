@@ -16,6 +16,9 @@ performed today <b>30July,2025
 
 <img width="382" height="308" alt="Image" src="https://github.com/user-attachments/assets/da25ef54-1f1b-4ba8-8673-7d153e4bd48d" />
 
-[<b>MODULE 4</b>]Image of C Programming sololearn Certificate(Completed on <b>31July,2025</b>):
+[<b>MODULE 4</b>]Image of <b>C Programming </b> sololearn Certificate(Completed on <b>31July,2025</b>):
 ![Image](https://github.com/user-attachments/assets/e74ae10c-983e-457f-8258-520d83f4193d)
+
+Image of <b>C Intermediate</b> Programming sololearn Certificate(Completed on <b>06Aug,2025</b>):
+![Image](https://github.com/user-attachments/assets/448678ca-673c-4e0f-940b-debad2cedc8f)
 
