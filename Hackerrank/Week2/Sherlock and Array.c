@@ -1,0 +1,30 @@
+// Vaibhav Malviya
+#include <stdio.h>
+
+int main() {
+    int t;
+    scanf("%d", &t);
+    while(t--) {
+        int n;
+        scanf("%d", &n);
+        long long arr[100000];
+        long long total = 0;
+        for(int i = 0; i < n; i++) {
+            scanf("%lld", &arr[i]);
+            total += arr[i];
+        }
+        long long left = 0;
+        int found = 0;
+        for(int i = 0; i < n; i++) {
+            long long right = total - left - arr[i];
+            if(left == right) {
+                found = 1;
+                break;
+            }
+            left += arr[i];
+        }
+        if(found) printf("YES\n");
+        else printf("NO\n");
+    }
+    return 0;
+}
